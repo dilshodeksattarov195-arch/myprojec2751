@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscarse",
+        "uuid": 4321821,
+        "checksum": "qthpdc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
